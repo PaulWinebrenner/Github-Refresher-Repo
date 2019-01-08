@@ -5,6 +5,7 @@ For a Git/Github refresher in lab.
 2. `git clone <link>`
 3. Make a change to the README.md file.
 4. `git add .`
+Whack
 5. `git commit -m “<message>”`
 6. `git push`
 
